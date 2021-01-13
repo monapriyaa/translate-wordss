@@ -28,7 +28,7 @@ public static List<String> readFileInList(String fileName)
 } 
 public static void main(String[] args) 
 { 
-	List l = readFileInList("C:\\Users\\pankaj\\Desktop\\test.java"); 
+	List l = readFileInList("C:\\Users\\VIGNESH SELVAM\\Downloads.java"); 
 
 	Iterator<String> itr = l.iterator(); 
 	while (itr.hasNext()) 
